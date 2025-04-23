@@ -7,15 +7,6 @@ assignees: ''
 
 ---
 
----
-name: User Story template IBM course
-about: This template is for creating user stories
-title: ''
-labels: ''
-assignees: davedirect3
-
----
-
 **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
